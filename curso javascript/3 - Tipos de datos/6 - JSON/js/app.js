@@ -14,3 +14,8 @@ var personas = [
 var personaJSON = JSON.stringify(persona);
 
 var nuevaPersona = JSON.parse(personaJSON)
+
+/* con stringify para hacerlo cadena de texto 
+con parse lo podemos utilizar para anidar 
+esto sirve para intercambiar datos sea en nuestra aplicacion o 
+con servicios externos
