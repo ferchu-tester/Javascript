@@ -1,2 +1,2 @@
 
-alert('hola desde un archivo externo');
+alert('hola tester desde un archivo externo');
