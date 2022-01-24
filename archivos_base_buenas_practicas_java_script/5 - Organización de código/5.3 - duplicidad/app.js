@@ -5,7 +5,7 @@ var cuentaNueva = 20 + 45;
 var totalFinal = cuenta + cuentaNueva;
 
 console.log(totalFinal);
-
+//usar una funcion para evitar realizar acciones repetitivas
 function suma(datoA, datoB){
 	var resultado = datoA + datoB;
 	return resultado;

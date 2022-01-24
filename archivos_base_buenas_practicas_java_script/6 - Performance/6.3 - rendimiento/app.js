@@ -1,3 +1,5 @@
+//para medir el rendimiento time-time end varia dependiendo del brouser
+//se prueba en varios brouser para hacer un promedio y tener un valor real
 console.time('revisión')
 
 var animales = ["perro", "gato", "pez"];

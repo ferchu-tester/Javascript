@@ -1,3 +1,6 @@
+//tener cuidado la conquetenacion con join cadena de texto separada por ,
+// concat es un arreglo (objeto)
+//join es mas eficaz si solo buscas un texto
 var animales = ["perro", "gato", "pez"];
 
 var listaAnimales = animales.join(", ");
