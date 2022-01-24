@@ -1,6 +1,6 @@
 var mensaje = "mensaje local";
 resultado += 2;
-
+//agrega un objeto para reducir el riesgo de variables iguales 
 var datos={};
 datos.mensaje = "mensaje local del objeto";
 datos.resultado = 120;
