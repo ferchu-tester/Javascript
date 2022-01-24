@@ -1,3 +1,4 @@
+//la identacion sirve para ordenar el codigo
 var tienda = {
     nombre: "Tienda las 4 esquinas",
     calcular: function(costo1, costo2) {

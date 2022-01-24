@@ -1,3 +1,6 @@
+hola 
+Donde
+adadda
 
 /**
  * [nombre description]
@@ -5,6 +8,10 @@
  */
 var nombre = "yacafx",
     email = "sergiobritor@gmail.com";
+
+    hola 
+    PerformancePaintTimin
+    DelayNode
 
 /**
 *	Función parar enviar saludos
@@ -14,6 +21,9 @@ function saludar(nombre){
 	//Se retorna el mensaje formado
     return "Hola "+ nombre;
 }
+ 
+hola hola
+hola
 
 /*
 	Comentario de bloque
