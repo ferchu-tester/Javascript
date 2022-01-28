@@ -1,7 +1,7 @@
 
 Grupos de caracteres
 ===
-
+//atajos uno canela a otro
 Grupo | Descripción
 ------|-----
 \d  | Cualquier número  
